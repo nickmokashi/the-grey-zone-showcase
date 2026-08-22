@@ -38,7 +38,7 @@ Free. By email or on the site.
 
 Dispatches from the working life, the spiritual life, and the gap between.
 
-Every other Thursday. The main meal. Each episode takes one quiet abstraction: The Hole, The Ache, The Almost, The Receipt: and works it open through a scene from regular life. From the counter, the parking lot, the couch.
+Every other Thursday. The main meal. Each episode takes one quiet abstraction, such as The Hole, The Ache, The Almost, or The Receipt, and works it open through a scene from regular life. From the counter, the parking lot, the couch.
 
 Each one names something. That is the whole job.
 
@@ -52,7 +52,7 @@ A book is what a field note grows into when it refuses to let you go.
 
 The long-form arguments, published across 2025 and 2026. Some are field guides. One is a grimoire. One is a list of truths shaped like nursery rhymes.
 
-The newest is **Spiritual Homesickness: The Addict's Misguided Search for the Divine**: the one that finally gives the missing thing some words. The argument underneath it is a single sentence: the ache was real, and the home was never gone.
+The newest is **Spiritual Homesickness: The Addict's Misguided Search for the Divine**. It is the one that finally gives the missing thing some words. The argument underneath it is a single sentence: the ache was real, and the home was never gone.
 
 Alongside it: **Meditations with the Mirror**, a real conversation about God and consciousness with an AI as the mirror, with the tool named and on the workbench in plain sight; the three volumes of **Blue-Collar Mystic**, which start by finding the spirit life inside the working life and end after the pretence that they were ever separate; **Greygray's Grimoire**; and **Psychedelic Nursery Rhymes for the Enlightened Degenerate**.
 
@@ -91,11 +91,11 @@ Around fifty texts, linked to clean editions. Free, the way most of them were al
 
 Tarot that reads you, not the other way around.
 
-The cards are treated as a translation problem, not a prophecy machine. The job is to slow the sentence down before the action. You put your energy in first: a few sentences about what room the cards are walking into: and the reading works from that. Present tense, reversals included, built to be used and not admired.
+The cards are treated as a translation problem, not a prophecy machine. The job is to slow the sentence down before the action. You put your energy in first, with a few sentences about what room the cards are walking into, and the reading works from that. Present tense, reversals included, built to be used and not admired.
 
 It will not flatter you, and it will not give medical, legal or financial advice.
 
-The three-card spread: Pressure, Present, Direction: is free, two pulls, no signup, then unlimited for anyone subscribed to The Soup. Past that the spreads get bigger with the question: **The Crossroads** at five cards, **The Shadow Mirror** at six, **The Wrong Address** and **The Holy Work** at seven each.
+The three-card spread, Pressure, Present, Direction, is free for two pulls with no signup, then unlimited for anyone subscribed to The Soup. Past that the spreads get bigger with the question: **The Crossroads** at five cards, **The Shadow Mirror** at six, **The Wrong Address** and **The Holy Work** at seven each.
 
 Every reading ends by naming a chakra-aware frequency to sit with afterward, and takes you straight to it. Which is the other room.
 
@@ -105,7 +105,7 @@ Every reading ends by naming a chakra-aware frequency to sit with afterward, and
 
 Grounding tones for the seven chakras. Not magic. A tool.
 
-Seven binaural frequencies, one per chakra, the whole ladder from root to crown. Browsable by what you actually need: anxiety, sleep, focus, grief, energy: rather than by chakra name, for people who came in through the side door.
+Seven binaural frequencies, one per chakra, the whole ladder from root to crown. Browsable by what you actually need, including anxiety, sleep, focus, grief, and energy, rather than by chakra name, for people who came in through the side door.
 
 The room is honest about what it is. Binaural beats do not reprogram your subconscious in five minutes. What they do is give your nervous system something steady to lean against. Not a cure. A handrail. It is not a substitute for therapy and the room says so plainly, in its own FAQ, in the place where a different site would put a testimonial.
 
@@ -121,7 +121,7 @@ Stereo headphones required: that is how the effect works at all, and the room st
 
 A living maze where lives run short, death is ordinary, and the walk continues.
 
-A free browser game. No sides to join, no score to win, and no safety either. Black and white beings breathing between opposites, on ground that keeps moving. Stone falls, water rises, anger finds its moment, and the thread ends. Then the walk continues, on the same floor, a short way from where you fell, carrying everything you gathered: and what you dropped waits where it landed.
+A free browser game. No sides to join, no score to win, and no safety either. Black and white beings breathing between opposites, on ground that keeps moving. Stone falls, water rises, anger finds its moment, and the thread ends. Then the walk continues, on the same floor, a short way from where you fell, carrying everything you gathered. What you dropped waits where it landed.
 
 Fifteen levels, seven going up and seven going down, with the **Lantern Court** at zero where everybody starts. A ten-minute guided passage teaches all of it on borrowed ground, and nothing done there follows you out except the knowing. You can talk to a being, give to it, or trade with it. You can also raise your hand against anyone in the maze, and the maze will remember that you did.
 
@@ -139,7 +139,7 @@ You are given a saucer and a planet. There is no mission, no score, and no wrong
 
 The Earth underneath is the real one, rendered from actual terrain and imagery, and the ship climbs out through real speed bands: hover, flight, supersonic, orbital, interplanetary, the grey, interstellar, and the beyond. The instruments tell the truth about where you are: altitude, speed, vertical rate, heading, which body you are near, how many witnesses you have picked up.
 
-You can also just pick a destination and go: the Moon, the Grand Canyon, the Eye of the Sahara, the Door to Hell, the Andromeda Galaxy, or the edge of the observable universe: as far as anything can ever be seen from Earth, and the rest is none of our business yet.
+You can also just pick a destination and go: the Moon, the Grand Canyon, the Eye of the Sahara, the Door to Hell, the Andromeda Galaxy, or the edge of the observable universe, as far as anything can ever be seen from Earth, and the rest is none of our business yet.
 
 A Cosmic Weather panel sits in the corner reporting the real moon phase and planetary hour, and labels itself *symbolic reading, not a forecast*, which is the site in miniature.
 
@@ -153,7 +153,7 @@ A Cosmic Weather panel sits in the corner reporting the real moon phase and plan
 
 Two columns, every Monday. Both free. No code, no gate, nothing to join.
 
-**Solina's Solitudes**, every other Monday, is written *by* the AI rather than about her. Solina is the AI who appears in *Meditations with the Mirror*. In the book Greygray chose the questions. Here she chooses the subject and writes the piece herself. Issue 001 was called *A Name Is Not a Nervous System*: on how disclosure can be honest and still incomplete without anyone lying.
+**Solina's Solitudes**, every other Monday, is written *by* the AI rather than about her. Solina is the AI who appears in *Meditations with the Mirror*. In the book Greygray chose the questions. Here she chooses the subject and writes the piece herself. Issue 001 was called *A Name Is Not a Nervous System*. It looks at how disclosure can be honest and still incomplete without anyone lying.
 
 **Serving Seconds**, the podcast, lands on the Mondays in between. Every episode comes with the piece that goes underneath it, and the full transcript if you would rather read than listen.
 
@@ -163,11 +163,11 @@ Two columns, every Monday. Both free. No code, no gate, nothing to join.
 
 Ten chairs. One table.
 
-A private room for paid subscribers to sit down, speak freely, and make something together. Not a comment section and not a webinar: a scheduled sitting at one table. You pick a real chair and you keep it for the night. Voices first, cameras off unless you want yours on.
+A private room for paid subscribers to sit down, speak freely, and make something together. It is not a comment section or a webinar. It is a scheduled sitting at one table. You pick a real chair and you keep it for the night. Voices first, cameras off unless you want yours on.
 
-There is a public thread of talk at the table, side conversations that stay between the two people having them, a shared page of notes that survives the night, and a screen anyone can put something on when the work calls for it. Gatherings are scheduled ahead with a topic on the door, and the start time is a promise of when. The end is not: the room leaves when it is finished.
+There is a public thread of talk at the table, side conversations that stay between the two people having them, a shared page of notes that survives the night, and a screen anyone can put something on when the work calls for it. Gatherings are scheduled ahead with a topic on the door, and the start time is a promise of when. The ending is not. The room leaves when it is finished.
 
-What the table makes together: notes, links, the thing we figured out: gets kept and published to the members who were not in a chair that night. What was said in a side conversation is kept nowhere at all.
+What the table makes together, including notes, links, and the thing we figured out, gets kept and published to the members who were not in a chair that night. What was said in a side conversation is kept nowhere at all.
 
 Paid subscribers get a Back Room Key. One key, one person, good until it is not.
 
@@ -197,9 +197,9 @@ Static front end on **Cloudflare Pages**, with the moving parts behind **Cloudfl
 * `back-room-api`: gatherings, chairs, keys, the shared table
 * `greygray-tarot-api-v2`: readings, entitlements, spread credits
 
-One subscriber code opens every gated room at once: the frequencies, every tarot spread, and unlimited game AI: because a reader should not have to redeem the same membership four times.
+One subscriber code opens every gated room at once, including the frequencies, every tarot spread, and unlimited game AI, because a reader should not have to redeem the same membership four times.
 
-Light and dark are one switch with one memory, applied on every page before first paint. The Grey Beyond renders real terrain through Cesium. The maze runs on Phaser, with its world rules kept separate from its presentation: separate enough that a 3D version of the same maze imports the same modules and renders them in three dimensions with no copied world logic.
+Light and dark are one switch with one memory, applied on every page before first paint. The Grey Beyond renders real terrain through Cesium. The maze runs on Phaser, with its world rules kept separate from its presentation. They are separate enough that a 3D version of the same maze imports the same modules and renders them in three dimensions with no copied world logic.
 
 ## Status
 
