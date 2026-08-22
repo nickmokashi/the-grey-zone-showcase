@@ -212,7 +212,7 @@ Live, open, and still growing. Field Notes arrives every Wednesday and Sunday, T
 The Grey Zone is where the software gets built too:
 
 * **[Takesmith](https://github.com/nickmokashi/takesmith-showcase)**: a teleprompter that follows you instead of making you follow it
-* **Synsemble**: a small AI organization you own, shown to you as a building
+* **[Synsemble](https://github.com/nickmokashi/synsemble-showcase)**: a small AI organization you own, shown to you as a building
 * **[QuotaSpring](https://github.com/nickmokashi/quotaspring-showcase)**: one place to see how much API fuel you have left
 * **[Trail Mix](https://github.com/nickmokashi/trail-mix-showcase)**: solve it once, and it learns the trail
 
