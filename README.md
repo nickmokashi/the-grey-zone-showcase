@@ -18,6 +18,28 @@ This page is a walk through every room that is open now.
 
 ---
 
+## The whole map
+
+Eleven rooms. Four you read, two you use, two you play, three you come into.
+
+| | Room | What it is | Open |
+|---|---|---|---|
+| <img src="shots/02-field-notes.png" width="150"> | **Field Notes** | Essays on magic, religion and divination. Skeptical, from the inside. | Wednesday and Sunday · free |
+| <img src="shots/03-the-soup.png" width="150"> | **The Soup** | The main meal. One quiet abstraction, worked open through a scene from regular life. | Every other Thursday · free |
+| <img src="shots/04-my-books.png" width="150"> | **My Books** | The long-form arguments. Field guides, a grimoire, and a book of truths shaped like nursery rhymes. | Always · Amazon |
+| <img src="shots/05-the-library.png" width="150"> | **The Library** | Around fifty public-domain texts the bestsellers were quietly built on top of, in six collections. | Always · free |
+| <img src="shots/06-the-mirror.png" width="150"> | **The Mirror** | Tarot treated as a translation problem rather than a prophecy machine. You put your energy in first. | Always · two free pulls, then free with The Soup |
+| <img src="shots/07-frequency-room.png" width="150"> | **The Frequency Room** | Seven binaural tones, root to crown, browsable by what you actually need. A handrail, not a cure. | Always · $1.25 each, $7 for all seven |
+| <img src="shots/08-no-wrong-place.png" width="150"> | **No Wrong Place** | A living maze where lives run short, death is ordinary, and the walk continues. Fifteen levels. | Always · free, nothing to install |
+| <img src="shots/09-grey-beyond.png" width="150"> | **The Grey Beyond** | A saucer, the real Earth rendered from actual terrain, and everything out to the observable edge. | Always · free |
+| <img src="shots/10-subscribers-corner.png" width="150"> | **Subscribers Corner** | Solina's Solitudes, written by the AI rather than about her, and the Serving Seconds podcast. | Every Monday · free, no gate |
+| <img src="shots/11-back-room.png" width="150"> | **The Back Room** | Ten chairs, one table. A scheduled sitting where what the table makes gets kept. | Scheduled · paid subscribers |
+| <img src="shots/12-my-vibe.png" width="150"> | **My Vibe** | Who I am, what this site is, and what it is not. Where the AI disclosure lives in full. | Always · free |
+
+**One key opens every gated room at once** — the frequencies, every tarot spread, the Back Room and unlimited game AI — because a reader should not have to redeem the same membership four times.
+
+---
+
 ## Read
 
 ### Field Notes
@@ -213,7 +235,6 @@ The Grey Zone is where the software gets built too:
 
 * **[Takesmith](https://github.com/nickmokashi/takesmith-showcase)**: a teleprompter that follows you instead of making you follow it
 * **[Synsemble](https://github.com/nickmokashi/synsemble-showcase)**: a small AI organization you own, shown to you as a building
-* **[QuotaSpring](https://github.com/nickmokashi/quotaspring-showcase)**: one place to see how much API fuel you have left
 * **[Trail Mix](https://github.com/nickmokashi/trail-mix-showcase)**: solve it once, and it learns the trail
 
 ---
